@@ -1,2 +1,2 @@
 # neural-networks-practices
-Practices about neural network
+Test in learning practices about neural networks
